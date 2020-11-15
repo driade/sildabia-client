@@ -1,5 +1,5 @@
 {
-    "name": "driade/sildabia",
+    "name": "driade/sildabia-client",
     "description": "Client for Sildabia API",
     "keywords": ["api", "events"],
     "license": "MIT",
